@@ -15,7 +15,6 @@ namespace DatingApp.API.Controllers
         public ActionResult<IEnumerable<string>> Get()
         {
 			return new string[] { "value1", "value2" };
-			//throw new Exception("Test Exception");
         }
 
         // GET api/values/5

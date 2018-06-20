@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{17908A03-8BD8-4560-8CE1-9C26BAC74BAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValuesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Startup.cs" Line="28" Column="89" />
-      <File FileName="Controllers/ValuesController.cs" Line="11" Column="51" />
+      <File FileName="Startup.cs" Line="25" Column="53" />
+      <File FileName="appsettings.json" Line="4" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
